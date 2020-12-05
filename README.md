@@ -1,5 +1,5 @@
-# onboardingBot
-Bot which aids in making onboarding a smoother process
+# SlackBot
+Bot which aids in making on call a smoother process
 
 This bot uses the concept of rule based learning, where pre defined input and repsonse types are fed to the bot. In best effort, the bot tries to answer based on the knowledge it is fed.
 
